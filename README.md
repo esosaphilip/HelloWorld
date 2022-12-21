@@ -34,7 +34,7 @@ GIF created with ...
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Displaying the App on a very slow Emulator, due to insufficient space.
 
 ## License
 
